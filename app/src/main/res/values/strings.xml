@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PixieRobot</string>
+    <string name="chat_title">Pixie Chat</string>
+    <string name="btn_send">Send</string>
+    <string name="text_hint">Type something here.</string>
+    <string name="chat_send_date">2016&#8211;08&#8211;14 16:08:09</string>
+    <string name="chat_send_name">Phreq</string>
+    <string name="chat_send_content">Hello world and hello me</string>
+    <string name="chat_from_date">2016&#8211;08&#8211;14 16:09:09</string>
+    <string name="chat_from_name">Pixie</string>
+    <string name="chat_from_content">You are welcome</string>
+    <string name="chat_welcome">I\'m pixie, and very glad to serve you.</string>
+    <string name="empty_msg">The text is empty, please type something there.</string>
+    <string name="server_side_error">The Server can\'t take a response.</string>
+    <string name="server_yet_developing">Yet waiting for development.</string>
+    <string name="server_conn_error">Failed to connect the server!</string>
+</resources>
